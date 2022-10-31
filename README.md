@@ -5,6 +5,7 @@
 2. variabel r = jari-jari lingkaran
 3. variabel l = luas lingkaran
 4. variabel k = keliling
+
 ![ss1](foto/ss1.png)
 ![ss2](foto/ss2.png)
 ### Pembahasan
