@@ -5,8 +5,9 @@
 2. variabel r = jari-jari lingkaran
 3. variabel l = luas lingkaran
 4. variabel k = keliling
+
 ![ss1]/(foto/ss1.png)
-![ss2]/(foto/ss1.png)
+![ss2]/(foto/ss2.png)
 ### Pembahasan
 1. Deklarasikan variabel pi = 3.14, secara otomatis menggunakan tipe data float karena bernilai desimal.
 2. masukan nilai Jari-jari (r), inputan dibungkus float agar perhitungan dapat mengoprasikan nilai desimal.
